@@ -1,0 +1,81 @@
+body{
+    border: 5px solid;
+    border-color: green;
+    background-color:transparent;   
+    background-image: url(img/cenario.jpg);
+}
+
+header{
+    display: flex;
+    background-color:transparent;    
+}
+
+h1{
+  
+    text-align: center;
+    width: 100vw;
+    min-width: 700px;
+    height: 10vh;
+    background-color:transparent;   
+     
+}
+
+button.grilo{
+    width: 49vw;
+    min-width: 350px;
+    height: 15vh;
+    min-height: 15vh;
+    background-color: rgb(0, 255, 0);  
+}
+
+button.sapo{
+    width: 49vw;
+    min-width: 350px;
+    height: 15vh;
+    min-height: 15vh;
+    background-color: rgb(0, 255, 0);   
+}
+
+button.humano{
+    width: 49vw;
+    min-width: 350px;
+    height: 15vh;
+    min-height: 15vh;
+    background-color: rgb(0, 255, 0);  
+}
+
+button.larva{
+    width: 49vw;
+    min-width: 350px;
+    height: 15vh;
+    min-height: 15vh;
+    background-color: rgb(0, 255, 0);  
+}
+
+aside{
+    border: 5px solid;
+    border-color: green;
+}
+
+div{
+    border: 5px solid;
+    border-color: green;
+    background-color:transparent;   
+  
+}
+
+.primeira{
+    width: 46.5vw;
+    min-width: 350px;
+    height: 60vh;
+    min-height: 20vh;
+}
+
+footer{
+  
+    width: 100vw;
+    min-width: 700px;
+    height: 15vh;
+    background-color:transparent;    
+  
+}
